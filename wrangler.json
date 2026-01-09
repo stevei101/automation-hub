@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "automation-hub",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "95e7b791-5131-4e7a-82a9-63d1036a2545",
+			"database_name": "automation-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
